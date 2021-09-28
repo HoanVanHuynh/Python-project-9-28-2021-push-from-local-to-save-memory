@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Project/project1/media/videos/check/1080p60/partial_movie_files/MovingFrameBox/450974505_1368097964_1848587839.mp4'
+file 'file:C:/Project/project1/media/videos/check/1080p60/partial_movie_files/MovingFrameBox/2788726626_649475845_330673597.mp4'
+file 'file:C:/Project/project1/media/videos/check/1080p60/partial_movie_files/MovingFrameBox/2788726626_4180579860_4084036694.mp4'
+file 'file:C:/Project/project1/media/videos/check/1080p60/partial_movie_files/MovingFrameBox/2788726626_3531891685_330673597.mp4'
+file 'file:C:/Project/project1/media/videos/check/1080p60/partial_movie_files/MovingFrameBox/2788726626_4180579860_1902195140.mp4'

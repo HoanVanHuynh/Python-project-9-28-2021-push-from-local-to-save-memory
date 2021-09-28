@@ -1,0 +1,5 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Project/project1/media/videos/s/1080p60/partial_movie_files/SomeAnimations/450974505_2478411022_909901879.mp4'
+file 'file:C:/Project/project1/media/videos/s/1080p60/partial_movie_files/SomeAnimations/2788726626_46112361_909901879.mp4'
+file 'file:C:/Project/project1/media/videos/s/1080p60/partial_movie_files/SomeAnimations/2788726626_1167545104_909901879.mp4'
+file 'file:C:/Project/project1/media/videos/s/1080p60/partial_movie_files/SomeAnimations/2788726626_123398499_223132457.mp4'

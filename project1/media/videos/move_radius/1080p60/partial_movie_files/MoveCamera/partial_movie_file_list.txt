@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Project/project1/media/videos/move_radius/1080p60/partial_movie_files/MoveCamera/3935184902_4236323774_145373936.mp4'
+file 'file:C:/Project/project1/media/videos/move_radius/1080p60/partial_movie_files/MoveCamera/3904891924_995518517_4153875106.mp4'
+file 'file:C:/Project/project1/media/videos/move_radius/1080p60/partial_movie_files/MoveCamera/1677786792_2371422910_1708131362.mp4'
